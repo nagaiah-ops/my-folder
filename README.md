@@ -106,3 +106,6 @@ Provision and manage cloud or on-premise infrastructure declaratively.
 * **Week 2:** Practice Bash scripting by writing 5 automation scripts.
 * **Week 3:** Build Ansible playbooks and configure local/cloud test servers.
 * **Week 4:** Write Terraform code to spin up and tear down cloud infrastructure.
+
+
+text
