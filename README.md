@@ -7,4 +7,3 @@
 3. Ansible
 
 4.Terraform
-
